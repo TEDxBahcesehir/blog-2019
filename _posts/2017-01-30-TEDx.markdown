@@ -1,0 +1,40 @@
+---
+layout: post
+title: "TEDx Nedir?"
+date: 2017-01-30
+author: "<a href=//tr.linkedin.com/in/ahmetasliyuce/en target=_blank>Ahmet Aslıyüce</a>"
+categories:
+  - Hayat
+description:
+image: https://s29.postimg.cc/b46kqf3h3/Tedx_jpg.png
+image-sm: https://s29.postimg.cc/b46kqf3h3/Tedx_jpg.png
+---
+### TED Konuşmaları düzenlenmeye başladığından beri sayısız insan "Paylaşmaya değer fikirler" sloganından aldığı cesaretle düşüncelerini ve fikirlerini bizimle paylaştı. Çoğumuz daha önce bir TED konuşması dinlemiş ve muhtemelen o konuşmadan kendimize bir pay çıkarmışızdır. Peki aslında bir kısaltma olan TED'in ne anlama geldiğini biliyor muyuz? Sizler için seçtiğimiz üç farklı TED konuşmasıyla TED'in hangi üç kelimenin kısaltması olduğunu hiç aklınızdan çıkmayacak bir şekilde öğrenebilirsiniz.
+
+**Teknoloji (Technology) için** ***T***,
+
+Teknoloji ilerledikçe bildiğimiz iş tanımları değişiyor ve üretimde insanlara olan ihtiyaç azalıyor. İnsanların gelecekte ne gibi işlerde çalışacağını ve bizi nelerin beklediğini Andrew McAfee'den dinliyoruz.
+
+
+<iframe src="https://www.youtube.com/embed/cXQrbxD9_Ng" frameborder="0" allowfullscreen></iframe>
+
+
+**Eğlence (Entertainment) için** ***E***,
+
+Gelen kutunuza daha önce servetini ülkesinden kaçırmaya çalışan devrik bir diktatörün akrabalarından veya ne kadar çok kişiye yollarsanız o kadar para kazanacağınızı iddia eden Patricia Teyze'den bir e-posta geldiyse James Veitch'in bu eğlenceli konuşması tam da sizin için.
+
+<iframe src="https://www.youtube.com/embed/_QdPW8JrYzQ" frameborder="0" allowfullscreen></iframe>
+
+
+**Dizayn (Design) için** ***D***,
+
+Sıradan TED konuşmalarından sıkıldınız ve daha farklı bir şeylere mi ihtiyacınız var? Merak etmeyin TED sahnesinde farklı konuşmacılara da yer var, radyocu Roman Mars bize bayrak bilimi Veksiloloji'den ve genelde çirkin tasarlandıklarını düşündüğü şehir bayraklarından bahsediyor.
+
+<iframe src="https://www.youtube.com/embed/pnv5iKB2hl4" frameborder="0" allowfullscreen></iframe>
+
+
+**Peki nedir bu** ***X*** **?**
+
+TEDx ise TED lisansıyla dünya çapındaki gönüllüler tarafından yerel olarak düzenlenen kâr amacı gütmeyen etkinliklerdir.
+
+<iframe src="https://www.youtube.com/embed/2R60WzdmB_A" frameborder="0" allowfullscreen></iframe>
