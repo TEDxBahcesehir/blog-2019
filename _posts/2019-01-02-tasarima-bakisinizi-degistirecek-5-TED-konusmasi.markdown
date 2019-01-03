@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tasarıma Bakışınız Değiştirecek 5 TED Konuşması"
+title: "Tasarıma Bakışınızı Değiştirecek 5 TED Konuşması"
 date: 2019-01-02
 categories:
   - Hayat
