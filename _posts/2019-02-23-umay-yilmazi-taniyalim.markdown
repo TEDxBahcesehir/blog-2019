@@ -2,7 +2,7 @@
 layout: post
 title: "Umay Yılmaz'ı Tanıyalım"
 date: 2019-02-23
-author: "<a http://linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172 target=_blank>Musatafa Oğuz Karslı</a>"
+author: "<a http://linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172 target=_blank>Mustafa Oğuz Karslı</a>"
 categories:
   - Biyografi
 description:
