@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zümre Atalay'ı Tanıyalım"
-date: 2019-02-24
+date: 2019-02-20
 author: "<a http://linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172 target=_blank>Musatafa Oğuz Karslı</a>"
 categories:
   - Biyografi
