@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Güray Ervin'i Tanıyalım"
-date: 2019-02-20
-author: "<a http://linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172 target=_blank>Mustafa Oğuz Karslı</a>"
+date: 2019-02-17
+author: "<a href"http://linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172" target=_blank>Mustafa Oğuz Karslı</a>"
 categories:
   - Biyografi
 description:
