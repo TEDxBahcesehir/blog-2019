@@ -2,7 +2,7 @@
 layout: post
 title: "Zümre Atalay'ı Tanıyalım"
 date: 2019-02-20
-author: "<a href=//tr.linkedin.com/in/orkun-kadioglu-1889b06a target=_blank>Orkun Kadıoğlu</a>"
+author: "<a href=//tr.linkedin.com/in/mustafa-oguz-karsli-166380172 target=_blank>Mustafa Oğuz Karslı</a>"
 categories:
   - Biyografi
 description:
