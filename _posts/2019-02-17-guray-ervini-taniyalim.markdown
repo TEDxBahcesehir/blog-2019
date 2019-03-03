@@ -12,7 +12,7 @@ image-sm: https://i.postimg.cc/j53Rq60d/guray-ervin.jpg
 
 Ve beklenen an geldi, sevgili TEDx BahcesehirUniversity ailesi. Bu yıl 5. Yılımızı kutlamanın sevinciyle blog yazı serilerimize başlıyoruz. Bu senenin etkinlik teması olan “Kırılma Noktası” ile sizlere, konuşmacılarımızı sahnede görmeden önce biraz tanımanız için kısa bilgilerini paylaşıyoruz.
 
-### Güray Ervin kimdir?
+### Güray Elvin kimdir?
 
 1975 yılında İzmir Urla’da doğan Güray Ervin, liseye kadar olan eğitim hayatını İzmir’de tamamlamış. Gazeteciliğe, 1988’de Hürriyet gazetesi İzmir bürosunda, karanlık odacı olarak başlamıştır. Ervin, gazeteciliğe başlama hikayesini şöyle anlatıyor: “Meslekte ‘alaylı’ tabir edilen gruptanım. Bizim meslekte ‘suyun başı’ İstanbul’dur. Ben de İstanbul’da çalışmak istiyordum. 1998 yılında hiç beklemediğim bir zamanda gelen çağrıyla hayalime ulaştım ve İstanbul’a taşındım.” 
 
