@@ -15,7 +15,7 @@ tecrübeli bir konuşmacımızı tanıtmak istiyoruz. Herkesin bildiğinin aksin
 yönetmiyor, doğrudan yüz yüze bu hizmeti veriyor. Daha fazla sözü uzatmadan sizi konuşmacımızla
 baş başa bırakalım…
 
-### Zümre Atalay kimdir?
+### Yunus Sezener kimdir?
 
 Üsküdar Amerikan Lisesi ve Koç Üniversitesi Hukuk Fakültesi mezunu olan Yunus Sezener, avukat
 olarak üç sene boyunca çalıştıktan sonra Almanya’da hukuk ve MBA yüksek lisansını bir arada
