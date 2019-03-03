@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Zümre Atalay'ı Tanıyalım"
+title: "Zümra Atalay'ı Tanıyalım"
 date: 2019-02-20
 author: "<a href=https://www.linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172/ target=_blank>Mustafa Oğuz Karslı</a>"
 categories:
@@ -14,7 +14,7 @@ Etkinliğimize göstermiş olduğunuz, yoğun ilgi için teşekkür ederiz. Bild
 Cumartesi günü Zorlu PSM Ana Sahne’de gerçekleşecek. Etkinlik tarihi yaklaştıkça, konuşmacılarımızı
 sizlere daha yakından tanıtıyor olacağız.
 
-### Zümre Atalay kimdir?
+### Zümra Atalay kimdir?
 
 Doç. Dr. Zümra Atalay, MEF Üniversitesi Psikolojik Danışma ve Rehberlik bölümü öğretim üyesi ve
 bölüm başkanıdır. Temel çalışma alanı bilinçli farkındalık (mindfulness), bilinçli farkındalık temelli
