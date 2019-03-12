@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Tanem Silvar Dirvana'yı Tanıyalım"
+title: "Tanem Sivar Dirvana'yı Tanıyalım"
 date: 2019-02-28
 author: "<a href=https://www.linkedin.com/in/mustafa-o%C4%9Fuz-karsl%C4%B1-166380172/ target=_blank>Mustafa Oğuz Karslı</a>"
 categories:
   - Biyografi
 description:
-image: https://i.postimg.cc/htYxbKKp/tanem-silvar.jpg
-image-sm: https://i.postimg.cc/htYxbKKp/tanem-silvar.jpg
+image: https://i.postimg.cc/T1Fxc61B/tanem-sivar.jpg
+image-sm: https://i.postimg.cc/T1Fxc61B/tanem-sivar.jpg
 ---
 
 Sevgili TEDxBahcesehirUniversity ailesi, yeniden sizlerle beraber olmanın mutluluğunu ve heyecanını
@@ -16,7 +16,7 @@ konuşmacılarımız hakkında sizlere bilgiler vermeye devam ediyoruz.
 Bugün sizlere aslında tanımakta hiç de yabancılık çekmeyeceğiniz bir konuşmacımızı tanıtıyoruz.
 Birçoğumuz kendisini ekranların sevilen programlarından da tanıyor…
 
-### Tanem Silvar Dirvana kimdir?
+### Tanem Sivar Dirvana kimdir?
 
 New York’da doğdu. ilkokula başlarken ailesi Türkiye’de eğitim görmesini tercih ettiği için
 ilk , orta ve lise eğitimini İstanbul’da tamamladı. Daha sonra hayali olan televizyon /
