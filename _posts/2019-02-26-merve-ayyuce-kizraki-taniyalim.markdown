@@ -22,9 +22,7 @@ Haberleşme Mühendisliği programında, İTÜ Bilişim Enstitüsünden de dersl
 lisans eğitimini tamamladı.
 
 Şu anda Yıldız Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Elektronik ve Haberleşme
-Mühendisliği Programında Doktora eğitimine devam etmektedir. Eş kurucusu olduğu
-Türkiye’nin en büyük yapay zeka topluluğu Deep Learning Türkiye ile Türkiye’de yapay
-zeka çalışmalarına hız kazandırmak için gönüllü çalışmalar yürütmektedir.
+Mühendisliği Programında Doktora eğitimine devam etmektedir. Kariyeri boyunca Türkiye'de yapay zeka çalışmalarına hız kazandırmak için inisiyatif alıp gönüllü faaliyetlerde bulunmuştur.
 
 Lisans mezuniyetinden Şubat 2019’a kadar Haliç Üniversitesi, Elektronik ve Haberleşme ve
 Elektrik-Elektronik Mühendisliği Bölümlerinde çeşitli dersleri yürüterek ve Şubat 2019’dan bu
